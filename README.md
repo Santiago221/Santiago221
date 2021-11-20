@@ -1,7 +1,7 @@
 ### Rodrigo Santiago
 
 
-Sou engenheiro automotivo 🏎 e mestre em engenharia e ciências mecânicas 🔬 na área de simulação estrutural em um projeto em conjunto com a Petrobras.
+Sou engenheiro automotivo 🚗 e mestre em engenharia e ciências mecânicas (🔬|🧑‍🔬) na área de simulação estrutural em um projeto em conjunto com a Petrobras.
 
 - Tenho experiência em simulação numérica estrutural (linear e não linear, plasticidade, hiperelasticidade e fadiga) e fluidodinâmica (ANSYS), manufatura aditiva e revestimento de metais por tecnologia a laser. Tenho experiência com ferramentas CAD Solidworks e Fusion 360.
 
